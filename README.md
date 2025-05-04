@@ -16,7 +16,7 @@ A clean and simple **Recipe Organiser** web app built using **React** and **Vite
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
+### 🏠 Home Page![Home Page Screenshot](/website.png)
 
 ---
 
