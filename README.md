@@ -2,7 +2,7 @@
 
 A clean and simple **Recipe Organiser** web app built using **React** and **Vite**. Easily view your collection of recipes and add new ones with a user-friendly interface.
 
-🌐 **Live Demo**: [View the Website](https://shubhamrai11.github.io/Recipe-Organiser-26.26-Creative-Studio/)
+🌐 **Live Demo**: [View the Website](https://recipe-organiser-26-26-creative-studio.vercel.app/)
 
 ---
 
