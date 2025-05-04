@@ -2,6 +2,8 @@
 
 A clean and simple **Recipe Organiser** web app built using **React** and **Vite**. Easily view your collection of recipes and add new ones with a user-friendly interface.
 
+🌐 **Live Demo**: [View the Website](https://shubhamrai11.github.io/Recipe-Organiser-26.26-Creative-Studio/)
+
 ---
 
 ## 🚀 Features
@@ -16,7 +18,9 @@ A clean and simple **Recipe Organiser** web app built using **React** and **Vite
 
 ## 📸 Screenshots
 
-### 🏠 Home Page![Home Page Screenshot](/website.png)
+### 🏠 Home Page
+
+![Home Page Screenshot](/website.png)
 
 ---
 
@@ -118,3 +122,4 @@ This project is licensed under the MIT License.
 
 Developed by [Shubham Rai](https://github.com/shubhamrai11)
 Feel free to reach out for collaboration or questions!
+
